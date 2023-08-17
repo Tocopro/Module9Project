@@ -2,15 +2,15 @@
 
   ## Title
 
-  README FILE
+  README FILE GENERATOR
 
 
   # Description
 
-  This project was initiated to enable me as a bootcamp student to know how to 
+  This is a read-me file generator that the user will be prompted with questions and reply to those questions in the integrated terminal. The answers to the questions will be generated as text below the title of the question.
 
 
-  ![](https://img.shields.io/badge/License - GNU-blue)
+  ![](https://img.shields.io/badge/License - MIT-blue)
 
   # Table of  Content
   1. [Description](#description)
@@ -25,17 +25,17 @@
 
   # Installation
 
-  
+   The installation of this project was done in the VS code editor where the developer will have access to input all the information about the project
 
 
   # Usage
 
-   
+  usage showing the expected output when the user enters text. Like I am doing now this text will be automatically generated with a new read-me file 
     
 
   # License
 
-  GNU
+  MIT
 
 
   # Contributors
@@ -50,7 +50,7 @@
 
   # Questions
 
-  
+  email: nicwac200g@gmail.com	GitHub repository: https://github.com/Tocopro/Module9Project
 
 
  
