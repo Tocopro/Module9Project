@@ -19,7 +19,7 @@ function generateMarkdown(data) {
   2. [Installation](#installation)
   3. [Usage](#Usage)
   4. [License](#license)
-  4. [Contributing](#contribution)
+  4. [Contributing](#contributors)
   5. [Tests](#tests)
   6. [Questions](#questions) 
   
@@ -47,7 +47,7 @@ function generateMarkdown(data) {
 
   # Tests
 
-  ${data.credit}
+  ${data.tests}
 
 
   # Questions

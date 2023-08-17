@@ -36,7 +36,7 @@
         },
         {
             type: "input",
-            name: "contribution",
+            name: "contributors",
             message: "Who are the Contributors: "
         },
         {
