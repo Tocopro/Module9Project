@@ -1,0 +1,15 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "![GitLab Release (by release name)](https://img.shields.io/gitlab/v/release/MIT%20license)",
+  "main": "^C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {}
+}
